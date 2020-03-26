@@ -1,10 +1,16 @@
 # AIImage简介
-基于旷视 Face++(www.faceplusplus.com.cn)封装的python脚本。
+基于旷视 Face++ (https://www.faceplusplus.com.cn) 封装的python脚本。
 纯python，注释清晰，语法简洁
+
+# 开发者
+倪小白（ni00）
+博客：https://www.nixiaobai.com
+Email：mail@nixiaobai.com
 
 # 使用指南
 请将main.py中api_key、api_secret填写完整,运行 main.py 即可使用
-
+![截图1](http://image.nixiaobai.com/aiimage/1.jpg)
+![截图2](http://image.nixiaobai.com/aiimage/2.png)
 # 项目列表如下：
 detect.py
 > 获得面部关键点、年龄、性别、头部姿态、微笑检测、眼镜检测以及人脸质量等信息
@@ -32,8 +38,3 @@ gesture.py
 
 merge.py
 > 可以对模板图和融合图中的人脸进行融合操作。融合后的图片中将包含融合图中的人脸特征，以及模板图中的其他外貌特征与内容。
-
-# 开发者
-倪小白（ni00）
-博客：https://www.nixiaobai.com
-Email：mail@nixiaobai.com
