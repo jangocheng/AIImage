@@ -1,5 +1,5 @@
 # AIImage简介
-基于旷视 Face++ (https://www.faceplusplus.com.cn) 封装的python脚本。
+基于旷视 Face++ (https://www.faceplusplus.com.cn) 封装的人工智能图片处理python脚本。
 纯python，注释清晰，语法简洁
 
 # 开发者
