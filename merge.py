@@ -4,7 +4,7 @@ from module import get_image, Base64ToObj,logTime
 
 def Merge(api_key,api_secret):
     """
-
+    可以对模板图和融合图中的人脸进行融合操作。融合后的图片中将包含融合图中的人脸特征，以及模板图中的其他外貌特征与内容。
     :param api_key:
     :param api_secret:
     :return:

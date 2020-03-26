@@ -15,8 +15,9 @@ from gesture import Gesture
 from merge import Merge
 
 #用户key&secret
-api_key = "lRxJfI3QovHo9SPsZMQamnJZoIfR9YP8"
-api_secret = "RFV35OzPrS2Sam-XcPx52m89jqjD5lY5"
+#Face++ https://www.faceplusplus.com.cn
+api_key = ""
+api_secret = ""
 
 if __name__ == "__main__":
     # 在脚本根目录新建缓存文件夹
