@@ -8,9 +8,11 @@
 Email：mail@nixiaobai.com
 
 # 使用指南
-请将main.py中api_key、api_secret填写完整,运行 main.py 即可使用
+请将main.py中api_key、api_secret填写完整，运行 main.py 即可使用
+
 ![截图2](http://image.nixiaobai.com/aiimage/2.png)
 ![截图1](http://image.nixiaobai.com/aiimage/1.jpg)
+
 # 项目列表如下：
 detect.py
 > 获得面部关键点、年龄、性别、头部姿态、微笑检测、眼镜检测以及人脸质量等信息
